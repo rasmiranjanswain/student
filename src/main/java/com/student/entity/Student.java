@@ -29,5 +29,6 @@ public class Student {
     private long mobile;
     private long studentRank;
     private int puna;
+    private String tiraj; // Name added for Tiraj Kc
     
 }
