@@ -28,5 +28,6 @@ public class Student {
     private String name;
     private long mobile;
     private long studentRank;
+    private int puna;
     
 }
