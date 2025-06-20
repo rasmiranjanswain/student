@@ -30,5 +30,5 @@ public class Student {
     private long studentRank;
     private int puna;
     private String Sandhya;
-    
+    private int num;
 }
