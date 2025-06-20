@@ -27,6 +27,6 @@ public class Student {
     private int id;
     private String name;
     private long mobile;
-    private long sfdasdfka;
+    private long studentRank;
     
 }
