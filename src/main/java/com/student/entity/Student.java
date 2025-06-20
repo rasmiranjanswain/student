@@ -25,9 +25,8 @@ public class Student {
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "uid")
     private int id;
-
     private String name;
-
     private long mobile;
+    private long iistudentRank;
     
 }
