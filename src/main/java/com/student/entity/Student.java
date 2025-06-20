@@ -29,5 +29,5 @@ public class Student {
     private long mobile;
     private long studentRank;
     private int puna;
-    
+    private int Anivi;
 }
