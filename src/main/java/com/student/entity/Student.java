@@ -28,6 +28,8 @@ public class Student {
     private String name;
     private long mobile;
     private long studentRank;
-    private int puna;
+    private int puna;// added by puna
     private int Anivi;
+
+    // this is puna ram poudel
 }
